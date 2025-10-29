@@ -20,6 +20,8 @@ This fundamental limitation is known as the Oracle Problem. Blockchain applicati
 
 *Chainlink CCIP Message
 
+*Verifiable Random Function (VRF)
+
 Decentralized Oracles
 Use multiple independent nodes to fetch and validate data, reducing risks of manipulation and downtime.
 
