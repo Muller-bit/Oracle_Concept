@@ -20,5 +20,14 @@ This fundamental limitation is known as the Oracle Problem. Blockchain applicati
 
 *Chainlink CCIP Message
 
+Decentralized Oracles
+Use multiple independent nodes to fetch and validate data, reducing risks of manipulation and downtime.
+
+Enhance security, transparency, and reliability by distributing trust among multiple parties to create a trust-minimized system.
+
+<img width="1600" height="715" alt="image" src="https://github.com/user-attachments/assets/062cfd5b-e879-434d-b2ef-71bf7e96976a" />
+
+
+
 
 
