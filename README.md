@@ -14,3 +14,5 @@ This fundamental limitation is known as the Oracle Problem. Blockchain applicati
 
 *Chainlink Data Feeds
 
+*Chainlink Price Feeds
+
