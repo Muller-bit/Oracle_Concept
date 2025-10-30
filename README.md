@@ -44,6 +44,9 @@ How it works: Data streams use a pull-based design that supports sub-second data
 Real-world use: High-frequency price updates for apps like predictions markets(POLY-MARKET) that enable participants to react quickly to events and provide accurate settlements.
 
 
-
+*Chain-link - Proof of reserve --> Proof of Reserve
+It  Verifies that tokenized assets (like stablecoins) are actually backed by real-world reserves.
+How it works: Regularly checks and confirms that the claimed backing assets exist in the reported amounts.
+Real-world use: Stablecoin issuers can prove they have the money backing their tokens.( Circle , Teter)
 
 
