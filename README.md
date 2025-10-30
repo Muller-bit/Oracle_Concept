@@ -12,8 +12,20 @@ This fundamental limitation is known as the Oracle Problem. Blockchain applicati
 <img width="1600" height="702" alt="image" src="https://github.com/user-attachments/assets/aeb72a88-3f33-4c93-8ca9-1792f2d1c5b1" />
 
 
+Decentralized Oracles Network(DON)
+
+Use multiple independent nodes to fetch and validate data, reducing risks of manipulation and downtime.
+
+Enhance security, transparency, and reliability by distributing trust among multiple parties to create a trust-minimized system.
+
+<img width="1600" height="715" alt="image" src="https://github.com/user-attachments/assets/062cfd5b-e879-434d-b2ef-71bf7e96976a" />
+
+
+USECASE 
+
 *Chainlink Price and Data Feeds --> Provide data on-chain, such as price information for cryptocurrencies, commodities, foreign exchange rates, etc.
                       --> Real-world use: When you use a DeFi platform that needs to know the current ETH/USD price, it's likely using Chainlink Price Feeds.
+
 
 *Chainlink automation(formerly keepers) --> Allows smart contracts to be automatically triggered when certain conditions are met.
                                         --> Real-world use: Automatically liquidating collateral in lending platforms when values drop below required thresholds.
@@ -26,12 +38,10 @@ Real-world use: Send tokens from Ethereum to Polygon or have a smart contract on
 It Uses cryptographic techniques to create random numbers that come with proof they were generated fairly.
 Real-world usecase: NFT projects use VRF to fairly distribute random traits or select winners for giveaways.
 
-Decentralized Oracles
-Use multiple independent nodes to fetch and validate data, reducing risks of manipulation and downtime.
-
-Enhance security, transparency, and reliability by distributing trust among multiple parties to create a trust-minimized system.
-
-<img width="1600" height="715" alt="image" src="https://github.com/user-attachments/assets/062cfd5b-e879-434d-b2ef-71bf7e96976a" />
+*Chainlink - Data Streams
+It provide on-demand access to high-frequency, low-latency market data, delivered off-chain and verifiable on-chain.
+How it works: Data streams use a pull-based design that supports sub-second data resolution for latency-sensitive use cases by retrieving data ONLY  when needed.
+Real-world use: High-frequency price updates for apps like predictions markets(POLY-MARKET) that enable participants to react quickly to events and provide accurate settlements.
 
 
 
