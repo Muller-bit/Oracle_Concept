@@ -22,7 +22,9 @@ This fundamental limitation is known as the Oracle Problem. Blockchain applicati
 It Creates a way for smart contracts on one blockchain to send messages and tokens to another blockchain in a secure and decentralized way.
 Real-world use: Send tokens from Ethereum to Polygon or have a smart contract on one chain trigger an action on another chain.
 
-*Verifiable Random Function (VRF) : 
+*Verifiable Random Function (VRF) :  Generates provably fair and verifiable random numbers that cannot be manipulated or predicted.
+It Uses cryptographic techniques to create random numbers that come with proof they were generated fairly.
+Real-world usecase: NFT projects use VRF to fairly distribute random traits or select winners for giveaways.
 
 Decentralized Oracles
 Use multiple independent nodes to fetch and validate data, reducing risks of manipulation and downtime.
