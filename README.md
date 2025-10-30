@@ -18,9 +18,11 @@ This fundamental limitation is known as the Oracle Problem. Blockchain applicati
 *Chainlink automation(formerly keepers) --> Allows smart contracts to be automatically triggered when certain conditions are met.
                                         --> Real-world use: Automatically liquidating collateral in lending platforms when values drop below required thresholds.
 
-*Chainlink CCIP Message
+*Chainlink CCIP Message ==> Enables secure communication between different blockchains.
+It Creates a way for smart contracts on one blockchain to send messages and tokens to another blockchain in a secure and decentralized way.
+Real-world use: Send tokens from Ethereum to Polygon or have a smart contract on one chain trigger an action on another chain.
 
-*Verifiable Random Function (VRF)
+*Verifiable Random Function (VRF) : 
 
 Decentralized Oracles
 Use multiple independent nodes to fetch and validate data, reducing risks of manipulation and downtime.
