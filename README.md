@@ -15,7 +15,8 @@ This fundamental limitation is known as the Oracle Problem. Blockchain applicati
 *Chainlink Price and Data Feeds --> Provide data on-chain, such as price information for cryptocurrencies, commodities, foreign exchange rates, etc.
                       --> Real-world use: When you use a DeFi platform that needs to know the current ETH/USD price, it's likely using Chainlink Price Feeds.
 
-*Chainlink automation 
+*Chainlink automation(formerly keepers) --> Allows smart contracts to be automatically triggered when certain conditions are met.
+                                        --> Real-world use: Automatically liquidating collateral in lending platforms when values drop below required thresholds.
 
 *Chainlink CCIP Message
 
