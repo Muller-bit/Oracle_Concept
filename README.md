@@ -49,4 +49,7 @@ It  Verifies that tokenized assets (like stablecoins) are actually backed by rea
 How it works: Regularly checks and confirms that the claimed backing assets exist in the reported amounts.
 Real-world use: Stablecoin issuers can prove they have the money backing their tokens.( Circle , Teter)
 
+DeFi (Decentralized Finance) - Borrowing and Lending protocols
+Major lending and trading platforms use Chainlink to get accurate price information for cryptocurrencies and other assets.
+Example: When you take out a crypto loan on Aave or trade on Uniswap, Chainlink price feeds help determine fair values and prevent exploitation.
 
