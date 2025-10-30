@@ -12,10 +12,8 @@ This fundamental limitation is known as the Oracle Problem. Blockchain applicati
 <img width="1600" height="702" alt="image" src="https://github.com/user-attachments/assets/aeb72a88-3f33-4c93-8ca9-1792f2d1c5b1" />
 
 
-*Chainlink Data Feeds --> Provide data on-chain, such as price information for cryptocurrencies, commodities, foreign exchange rates, etc.
+*Chainlink Price and Data Feeds --> Provide data on-chain, such as price information for cryptocurrencies, commodities, foreign exchange rates, etc.
                       --> Real-world use: When you use a DeFi platform that needs to know the current ETH/USD price, it's likely using Chainlink Price Feeds.
-
-*Chainlink Price Feeds
 
 *Chainlink automation 
 
