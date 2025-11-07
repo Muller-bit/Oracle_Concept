@@ -20,11 +20,11 @@ Data feeds provide many different types of data for your applications:
 
 - Price Feeds: aggregated source crypto-asset prices. - https://docs.chain.link/data-feeds#price-feeds
 
-- SmartData Feeds: a suite of onchain data offerings designed to unlock the utility, accessibility, and reliability of tokenized real-world assets (RWAs)
+- SmartData Feeds: a suite of onchain data offerings designed to unlock the utility, accessibility, and reliability of tokenized real-world assets (RWAs) - https://docs.chain.link/data-feeds#smartdata-feeds
 
-- Rate and Volatility Feeds: data for interest rates, interest rate curves, and asset volatility.
+- Rate and Volatility Feeds: data for interest rates, interest rate curves, and asset volatility. -https://docs.chain.link/data-feeds#rate-and-volatility-feeds
 
-- L2 Sequencer Uptime Feeds: Identify if an L2 sequencer is available.
+- L2 Sequencer Uptime Feeds: Identify if an L2 sequencer is available. -https://docs.chain.link/data-feeds#l2-sequencer-uptime-feeds
 
 #### 🔗 Data Feed Components
 
