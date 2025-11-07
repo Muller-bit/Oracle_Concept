@@ -1,6 +1,6 @@
 README.md
 
-### Oracles Concepts
+### 🔗 Oracles Concepts
 
 Blockchains are designed to be self-contained and deterministic systems. Deterministic means that given the same inputs, the system will always produce the same outputs. This property is crucial for security and consensus, as all blockchain nodes must agree on the state of the data for every transaction.
 
