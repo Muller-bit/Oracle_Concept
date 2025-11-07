@@ -1,5 +1,7 @@
 ### 🔗 Chainlink Data Feeds
 
+An insightful introduction to Chainlink Data Feeds - Learn how these feeds bring real-world data like asset prices and L2 status on-chain for smart contracts. Understand the key components like Consumers, Proxies, and Aggregators.
+
 In this Section, we will learn about Chainlink Data Feeds.
 
 Here are some reference resources on Data feeds:
