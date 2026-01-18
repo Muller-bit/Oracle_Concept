@@ -11,3 +11,12 @@
 
 - Why Multiple Oracles Matter:
 - Instead of trusting one person, Chainlink uses MANY oracles:
+
+- Oracle 1 says: "Price is $100"
+- Oracle 2 says: "Price is $100"
+- Oracle 3 says: "Price is $99"
+- Oracle 4 says: "Price is $100"
+
+- They take the average/most common answer, so it's really hard for one bad oracle to lie!
+
+- TL;DR: Blockchains can't see the outside world. Oracles are messengers that bring real-world data to the blockchain. Chainlink is the biggest and most trusted oracle network because it uses MANY messengers who all have to agree, making it super reliable! This lets smart contracts do amazing things like automatic insurance, betting, and much more!
