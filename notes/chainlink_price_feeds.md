@@ -4,6 +4,14 @@
 - Operators (oracle nodes)
 - Consesnsus( agreed to reached the deal) , cryptographic signature.
 
+## Usage
+
+- DeFi platforms , Aave , uniswap
+- Atomation(formerly keepers)
+- VRF -verifiable Random Function
+- Proof Reserve (stable issuer can check backed collateral)
+- Gaming (winner)
+
 ## Real life examples
 
 1. You want to buy insurance for your flight
