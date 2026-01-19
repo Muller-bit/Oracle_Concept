@@ -1,3 +1,9 @@
+## Key Concepts
+
+- DON , Oracle problem , offchain --> Onchain data
+- Operators (oracle nodes)
+- Consesnsus( agreed to reached the deal) , cryptographic signature.
+
 ## Real life examples
 
 1. You want to buy insurance for your flight
