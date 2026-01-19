@@ -11,6 +11,7 @@
 - VRF -verifiable Random Function
 - Proof Reserve (stable issuer can check backed collateral)
 - Gaming (winner)
+- LINK token used to pay the node operators, they can stake also to have sking in the game to be honest
 
 ## Real life examples
 
