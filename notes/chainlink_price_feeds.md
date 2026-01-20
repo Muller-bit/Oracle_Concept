@@ -8,10 +8,10 @@
 
 - DeFi platforms , Aave , uniswap
 - Atomation(formerly keepers)
-- VRF -verifiable Random Function
-- Proof Reserve (stable issuer can check backed collateral)
+- VRF - verifiable Random Function
+- Proof Reserve (stable issuer can check backed collateral asset)
 - Gaming (winner)
-- LINK token used to pay the node operators, they can stake also to have sking in the game to be honest
+- LINK token used to pay the node operators, they can stake also to have skin in the game to behave  honestly.
 
 ## Real life examples
 
@@ -35,3 +35,6 @@
 - They take the average/most common answer, so it's really hard for one bad oracle to lie!
 
 - TL;DR: Blockchains can't see the outside world. Oracles are messengers that bring real-world data to the blockchain. Chainlink is the biggest and most trusted oracle network because it uses MANY messengers who all have to agree, making it super reliable! This lets smart contracts do amazing things like automatic insurance, betting, and much more!
+
+## Chainlink Price Feeds
+- Price Feeds empower smart contracts to act on important, real-time data such as asset prices and market data. This is especially true in DeFi applications, where accurate and timely pricing information is critical to providing a trust-minimized and efficient alternative to traditional finance.
