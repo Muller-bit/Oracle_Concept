@@ -7,3 +7,10 @@
 When users send ETH to the contract, it will:
 
 - Query the current ETH/USD exchange rate.
+- Calculate the USD value of the sent ETH.
+
+- Determine the appropriate amount of tokens to mint based on our fixed USD token price.
+
+- Mint and transfer the calculated tokens directly to the buyer.
+
+- The TokenShop contract will integrate with our custom ERC-20 token contract from Section 2.
