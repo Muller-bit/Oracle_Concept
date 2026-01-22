@@ -1,3 +1,5 @@
+## Build a token Shop with Price Feeds
+
 ## Token Shop: Using Chainlink Data Feeds to calculate the price
 
 - In this lesson, we'll build a "TokenShop" smart contract that enables users to purchase tokens. It will use the ETH/USD price feed to calculate how many tokens to issue to a purchaser, based on the amount of ETH they pay.
